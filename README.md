@@ -3,8 +3,8 @@
 
 - :nerd_face: Always `learning new things`
 - 😀 I’m currently learning ```.NET```
-- 😀 Reach me at ```smha.hmza@gmail.com```
-- 😀 I’m open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](). 
+- 😄 Reach me at ```smha.hmza@gmail.com```
+- 😁 I’m open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](). 
 
 <br>
 
