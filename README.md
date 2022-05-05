@@ -1,10 +1,10 @@
 <h1 align="center">- HamZa ...</h1>
 <h3 align="center">Interested in Software Development [.NET]</h3>
 
-- ### :nerd_face: Always `learning new things`
-- ### 😀 I’m currently learning ```.NET```
-- ### 😄 Reach me at ```smha.hmza@gmail.com```
-- ### 😁 I’m open for: `An Intern` or a new `job opportunity`, check [MY RESUME]().
+- :nerd_face: Always `learning new things`
+- 😀 I’m currently learning ```.NET```
+- 😄 Reach me at ```smha.hmza@gmail.com```
+- 😁 I’m open for: `An Intern` or a new `job opportunity`, check [MY RESUME]().
 
 <br>
 <p align="center">Get in touch</p>
