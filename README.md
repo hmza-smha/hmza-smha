@@ -4,7 +4,7 @@
 - :nerd_face: Always `learning new things`
 - 😀 I’m currently learning ```.NET```
 - 😄 Reach me at ```smha.hmza@gmail.com```
-- 😁 I’m open for: `An Intern` or a new `job opportunity`, check [MY RESUME]().
+- 😁 I’m open for: `An Intern` or a new `job opportunity`, check [MY RESUME](https://www.canva.com/design/DAFFA7p24Ic/FVrlgS6eZVSBqWS9xFsBMg/edit).
 
 <br>
 <p align="center">Get in touch</p>
