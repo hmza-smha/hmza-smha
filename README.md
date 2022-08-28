@@ -1,5 +1,5 @@
 <h1 align="center">- HamZa ...</h1>
-<h3 align="center">Interested in Software Development ASP.NET + Angular</h3>
+<h3 align="center">Interested in Software Development [ASP.NET + Angular]</h3>
 
 - :nerd_face: Always `learning new things`
 - 😀 I’m currently learning ```Angular Framework```
