@@ -2,7 +2,7 @@
 <h3 align="center">Interested in Software Development [ASP.NET + Angular]</h3>
 
 - :nerd_face: Always `learning new things`
-<!-- - 😀 I’m currently learning ```Clean Code & Design Patterns``` -->- 😀 I’m currently learning ```Deep Learnign & AI```
+- 😀 I’m currently learning ```Deep Learnign & AI```
 - 😄 Reach me at ```smha.hmza@gmail.com```
 <!-- - 😁 Check [MY RESUME](https://www.canva.com/design/DAFIK9v5xug/MIEwEUE2V7gRbKUxCyKUHg/view?utm_content=DAFIK9v5xug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). -->
 
