@@ -4,7 +4,7 @@
 - :nerd_face: Always `learning new things`
 - 😀 I’m currently learning ```Clean Code & Design Patterns```
 - 😄 Reach me at ```smha.hmza@gmail.com```
-- 😁 Check [MY RESUME](https://www.canva.com/design/DAFIK9v5xug/MIEwEUE2V7gRbKUxCyKUHg/view?utm_content=DAFIK9v5xug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+<!-- - 😁 Check [MY RESUME](https://www.canva.com/design/DAFIK9v5xug/MIEwEUE2V7gRbKUxCyKUHg/view?utm_content=DAFIK9v5xug&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). -->
 
 <!-- I’m open for: `An Intern` or a new `job opportunity`, -->
 
